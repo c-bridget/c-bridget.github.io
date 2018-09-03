@@ -3,4 +3,4 @@ layout: default
 ---
 
 
-[August 12, 2018](./_poems/08122018.html)
+[August 12, 2018](./poems/08122018.html)
