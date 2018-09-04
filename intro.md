@@ -2,7 +2,7 @@
 layout:	post
 ---
 
-# An exercise in being seen
+## An exercise in being seen
 
 > call it a homecoming.
 >
