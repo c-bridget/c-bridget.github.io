@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## POEMS
+## Poems
 > Largely unedited and unfinished 
 
 [September 8, 2018](./poems/09082018.html) -- _on conflating and a lot of things I can't put into words_ <br>
