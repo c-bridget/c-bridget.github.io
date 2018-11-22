@@ -2,8 +2,8 @@
 layout: default
 ---
 
-### Hello 
-I'm Cristina! Recent Duke grad, full-time engineer. Trying not to be afraid of my own words. <br>
+### Hello!
+I'm Cristina :) Recent Duke grad, full-time engineer. Trying not to be afraid of my own words. <br>
 
 ![Intro](intropic.jpg)
 
