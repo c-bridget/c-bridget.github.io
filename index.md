@@ -8,7 +8,8 @@ Hello hello :) recent Duke grad, full-time engineer, trying not to be afraid of 
 
 ##### Constant works in progress
 
-[Myself](intro.md)
+[Myself](intro.md) <br>
+<br>
 [Poems](poems.md)
 
 
