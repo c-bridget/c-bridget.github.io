@@ -7,7 +7,7 @@ Hello hello :) recent Duke grad, full-time engineer, trying not to be afraid of 
 ![Intro](intropic.jpg)
 
 ### Things I'm working on 
-[![Shitou](poempic.jpg)](poems.md) ![Reflect](reflectpic.jpg)
+[![Shitou](poempic.jpg)](poems.html) ![Reflect](reflectpic.jpg)
 
 
 
