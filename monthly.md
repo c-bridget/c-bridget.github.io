@@ -3,6 +3,9 @@ layout: default
 ---
 ## Month by month
 
+#### February 2019
+[February 1, 2019](./poems/02012019.html) -- _And Yorana thought it was an owl_ <br>
+
 #### November 2018
 [November 12, 2018](./poems/11122018.html) -- _November's been real noisy_ <br>
 
