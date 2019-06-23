@@ -4,6 +4,7 @@ layout: default
 ## Month by month
 
 ### May 2019
+[May 18, 2019](./poems/05182019.html) -- _music camp_ <br>
 [May 12, 2019](./poems/05122019.html) -- _depression, humidity, Holy Week_ <br>
 
 ### April 2019
