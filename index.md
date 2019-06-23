@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Hello!
-I'm Cristina :) Trying not to be afraid of my own words. <br>
+I'm Cristina :) <br>
 
 ![Intro](intropic.jpg)
 
