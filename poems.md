@@ -2,7 +2,10 @@
 layout: default
 ---
 ## Poems
-
+[August 31, 2019](./poems/20190831.html) <br>
+[August 30, 2019](./poems/20190830.html) <br>
+[August 29, 2019](./poems/20190829.html) <br>
+[May 18, 2019](./poems/20190518.html)
 [May 12, 2019](./poems/05122019.html) <br>
 [April 13, 2019](./poems/04132019.html) <br>
 [April 7, 2019](./poems/04072019.html) <br>
